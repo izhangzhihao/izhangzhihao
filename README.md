@@ -2,7 +2,6 @@
 
 I'm Zhihao Zhang, a Lead Consultant/Data Enginer @[ThoughtWorksInc](https://github.com/ThoughtWorksInc).
 
-- 🔭 Currently working from home
 - 📫 Reach me: izhangzhihao@hotmail.com
 - 🎤 I speak: Scala, Kotlin, Java, TypeScript, Python
 - 💗 I love: Functional Programming
